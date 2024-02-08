@@ -1,4 +1,4 @@
-# Exercicios - Processamento de Imagens - 2024S1
+# Exercícios - Processamento de Imagens - 2024S1
 
 Profa. Leticia Rittner
 
